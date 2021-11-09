@@ -1,0 +1,41 @@
+.full-body {
+    background-color: #72A0C1;
+}
+.top-div {
+    background-color:gainsboro;
+    margin: auto;
+    width: 600px;
+    height:170px;
+    border-radius: 25px;
+}
+.top-header {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+.brief-discription {
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+.linked-in-image {
+    /* display: block; */
+    margin-left: 350px;
+    margin-right: auto;
+    margin-top: 0%;
+    width: 25%;
+    height: 50%;
+}
+.git-hub-image {
+    /* display: block; */
+    margin-left: 100px;
+    margin-right: 0%;
+    margin-top: 0%;
+    margin-bottom: 30px;
+    width: 11%;
+    height: 22%;
+}
+.column {
+    float: left;
+    width: 49.2%;
+    padding: 5px;
+    background-color:blue
+}
