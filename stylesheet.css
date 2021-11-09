@@ -1,5 +1,5 @@
 .full-body {
-    background-color: #72A0C1;
+    background-color: #4B8CCE;
 }
 .top-div {
     background-color:gainsboro;
@@ -16,20 +16,31 @@
     text-align: center;
     font-family: 'Courier New', monospace;
 }
+.images-div {
+    background-color:gainsboro;
+    margin: auto;
+    width: 700px;
+    height:670px;
+    border-radius: 25px;
+}
 .linked-in-image {
-    /* display: block; */
-    margin-left: 350px;
+    display: block;
+    margin-left: auto;
     margin-right: auto;
-    margin-top: 0%;
-    width: 25%;
-    height: 50%;
+    width: 9%;
+    height: 18%;
 }
 .git-hub-image {
-    /* display: block; */
-    margin-left: 100px;
-    margin-right: 0%;
-    margin-top: 0%;
-    margin-bottom: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 11%;
+    height: 22%;
+}
+.mail-icon-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 11%;
     height: 22%;
 }
